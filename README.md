@@ -1,16 +1,24 @@
-## Hi there 👋
+# I'm Vaishnavi Rajesh
 
-<!--
-**vaishnavi-rajesh/vaishnavi-rajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student with a strong interest in problem solving.  
+Exploring AI, Machine Learning, and data analysis.  
+I enjoy building practical projects and learning by doing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Languages:** Python, C, SQL  
+**Tools & Libraries:** Pandas, NumPy, Scikit-learn, Flask  
+**Concepts:** Basic Web Development, DBMS
+
+---
+
+## Connect
+
+LinkedIn: www.linkedin.com/in/vaishnavi-rajesh-516b13338
+
+<p align="center">
+  <img src="![WhatsApp Image 2026-02-17 at 10 16 58 PM](https://github.com/user-attachments/assets/37a5632a-917f-49eb-befd-3c80f202841d)
+" width="200"/>
+</p>
